@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Categories=Database;Development;Programming;
+Name=Robomongo
+Comment=MongoDB Database Administrator
+Keywords=
+Exec=/home/nmfcomp/Software/INSTALL_AREA/robomongo/bin/robomongo
+Icon=/home/nmfcomp/Software/INSTALL_AREA/robomongo/robomongo.png

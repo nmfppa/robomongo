@@ -1,0 +1,14 @@
+Source: robomongo
+Section: devel
+Priority: optional
+Maintainer: Nabil Muhammad Firdaus <nabilftd@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://robomongo.org
+#Vcs-Git: git://git.debian.org/collab-maint/robomongo.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/robomongo.git;a=summary
+
+Package: robomongo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GUI Database Administrator for MongoDB
