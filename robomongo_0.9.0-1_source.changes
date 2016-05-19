@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 17 May 2016 11:16:45 +0700
+Source: robomongo
+Binary: robomongo
+Architecture: source
+Version: 0.9.0-1
+Distribution: trusty
+Urgency: low
+Maintainer: Nabil Muhammad Firdaus <nabilftd@gmail.com>
+Changed-By: Nabil Muhammad Firdaus <nabilftd@gmail.com>
+Description: 
+ robomongo  - GUI Database Administrator for MongoDB
+Changes: 
+ robomongo (0.9.0-1) trusty; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ 89ab42344ee9fb3bbdccd2a9aa9118160f3d95f2 1358 robomongo_0.9.0-1.dsc
+ 5c05cd54709ac877ca8e8c1ed492498b72fb1949 28968210 robomongo_0.9.0.orig.tar.gz
+ 907acc6428dc641350fedb9859cfe52d75d6d03d 20023 robomongo_0.9.0-1.debian.tar.gz
+Checksums-Sha256: 
+ fa89e6e769aecb0a2dd9362ccc0663e503df6ab3bd6e79280c57b2e17679748f 1358 robomongo_0.9.0-1.dsc
+ 67e784c6c10e5d7f281aa91f3471e7cf5d0f21de68ad6ccac952fc2ef0e54fee 28968210 robomongo_0.9.0.orig.tar.gz
+ 8e5702bbee45bcb3d62aaf3c54b956a8dc212f22bb93b2a1e747c9954d0c97fd 20023 robomongo_0.9.0-1.debian.tar.gz
+Files: 
+ 79dcff40608b5dac886864c7ec531179 1358 devel optional robomongo_0.9.0-1.dsc
+ 399a7c05f67e6d9b2b7c9a81c339ea1a 28968210 devel optional robomongo_0.9.0.orig.tar.gz
+ 2216681fb7f9ea5fa6f2dfe66c918433 20023 devel optional robomongo_0.9.0-1.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJXPKD7AAoJENEPttp54GZb0b0IAIXZVEVka+3dh9tE2ODQsVQs
+Al6ToViOYrhUMsXHUMwsnEhA2GPqBmz60PcAD4d7T0G0BZFVvfyeGnrlMmS2qI5O
+BhNYJdUWGjLpkEaepmVz0rgCMM88XTogCK4yhQQyPAVhxObVKBiAwLgcKQyDl2ll
+QvlhGQbaOZbqZCx+uFoeESirSQTQjXTcT0RXeYn+HjieJXRCjFmmZeQcNbY0HSxM
+Og3nizHI09ExdOtNepsYzKV06eRmK/TU0MX3UCXnFYQVcPFYCM6GQ6S/BzUfykOg
+BW1huK8aUJzdopBd9sqF3Yo8cE51LosW7vPVzBO7FV/h1nyb9kSbIp/IQPsiBks=
+=DsHi
+-----END PGP SIGNATURE-----

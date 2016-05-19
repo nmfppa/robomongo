@@ -1,0 +1,11 @@
+/*
+
+!.gitignore
+!**.md
+!**.dsc
+!**.build
+!**.changes
+!**.upload
+robomongo-0.9.0/*
+!robomongo-0.9.0/debian/
+
